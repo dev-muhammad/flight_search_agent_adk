@@ -99,9 +99,9 @@ flight_search_agent/
 ├── .env                       # Environment variables (create this)
 ├── .env.example               # Example of .env file
 ├── .gitignore                 # Git ignore file
-├── flight_search_agent/       # Main agent directory
-│   ├── __init__.py            # Python package file
-│   └── agent.py               # Main agent implementation
+└── flight_search_agent/       # Main agent directory
+    ├── __init__.py            # Python package file
+    └── agent.py               # Main agent implementation
 ```
 
 ## How It Works
