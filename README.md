@@ -22,8 +22,8 @@ Before you begin, make sure you have:
 ### Step 1: Clone or Download the Project
 
 ```bash
-git clone <your-repository-url>
-cd flight_search_agent
+git clone https://github.com/dev-muhammad/flight_search_agent_adk.git
+cd flight_search_agent_adk
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
