@@ -221,7 +221,7 @@ Note: This project uses Google ADK, which has its own licensing terms. Please re
 - [Google ADK Documentation](https://github.com/google/adk)
 - [Google AI Studio](https://aistudio.google.com)
 - Article: 
-    - Как создавать ИИ-агентов: практическое руководство для новых разработчиков - I will put actual link after publishing
+    - [Как создавать ИИ-агентов: практическое руководство для новых разработчиков](https://the-tech.kz/kak-sozdavat-ii-agentov-prakticheskoe-rukovodstvo-dlya-novyh-razrabotchikov/)
 
 ---
 
